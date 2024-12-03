@@ -4,23 +4,26 @@ A machine learning project that classifies emails as Spam or Ham using Logistic 
 
 **Features**
 
-    Text Preprocessing: Handles missing data and transforms text into numerical representations using TF-IDF.
-    Spam Detection: Identifies spam emails with high accuracy.
-    Interactive Input: Allows users to input email content and receive real-time predictions.
-    Model Evaluation: Includes accuracy metrics for both training and test datasets.
+Text Preprocessing: Handles missing data and transforms text into numerical representations using TF-IDF.
+Spam Detection: Identifies spam emails with high accuracy.
+Interactive Input: Allows users to input email content and receive real-time predictions.
+Model Evaluation: Includes accuracy metrics for both training and test datasets.
+    
 
 **Technologies Used**
 
-    Python: Programming language for implementation.
-    Scikit-learn: Used for machine learning algorithms.
-    Pandas & NumPy: Data manipulation and numerical computation.
-    Logistic Regression: Core classification algorithm.
+Python: Programming language for implementation.
+Scikit-learn: Used for machine learning algorithms.
+Pandas & NumPy: Data manipulation and numerical computation.
+Logistic Regression: Core classification algorithm.
 
 **How to Run**
 
 Clone the repository:
 
+
 git clone https://github.com/your-username/Spam-Detection-System.git
+
 
 Navigate to the project directory:
 
